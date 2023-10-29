@@ -10,9 +10,9 @@ chmod +x knockd.sh
 ## Inputs
 Just enter the values as asked. 
 
-Sequence: 7000,8000,9000
-Port: 22
-cmd_timeout: 20
+Sequence: 7000,8000,9000,
+Port: 22,
+cmd_timeout: 20,
 interface: ens1
 
 
