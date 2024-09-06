@@ -16,7 +16,7 @@ cmd_timeout: 20,
 interface: ens1
 
 
-In client/ from where you are trying to connect, install knockd too, ( I used brew isntall knock for mac )
+In the client/ from where you are trying to connect, install knockd too, ( I used brew install knock for mac )
 Before port knocking
 nmap -Pn -p 22 ip 
 
